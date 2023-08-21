@@ -273,6 +273,7 @@
     {
       "shared/modules/diagram-parser": "types.ts"
     },
+
     {
       "webpack": [
         {
